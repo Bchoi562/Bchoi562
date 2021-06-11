@@ -10,3 +10,9 @@ Here are some things about me:
 - 💬 Ask me about ... Anything!  Especially if it's about video games or music!
 - 📫 How to reach me: ... b.choi562@gmail.com
 
+
+Front End Skills:
+HTML, CSS, JAVASCRIPT, REDUX, REACT
+
+Back End Skills:
+Node, Python, SQL, Express
